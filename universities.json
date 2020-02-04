@@ -1,0 +1,38 @@
+[
+  {
+    "slug": "mit.edu",
+    "name": "MIT",
+    "domains": [
+      "mit.edu"
+    ]
+  },
+  {
+    "slug": "unam.mx",
+    "name": "UNAM",
+    "domains": [
+      "unam.mx"
+    ]
+  },
+  {
+    "slug": "harvard.edu",
+    "name": "Harvard",
+    "domains": [
+      "harvard.edu",
+      "hbs.edu"
+    ]
+  },
+  {
+    "slug": "itam.mx",
+    "name": "ITAM",
+    "domains": [
+      "itam.mx"
+    ]
+  },
+  {
+    "slug": "yale.edu",
+    "name": "Yale",
+    "domains": [
+      "yale.edu"
+    ]
+  }
+]
