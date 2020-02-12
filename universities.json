@@ -1,20 +1,20 @@
 [
   {
-    "slug": "mit.edu",
+    "slug": "mit",
     "name": "MIT",
     "domains": [
       "mit.edu"
     ]
   },
   {
-    "slug": "unam.mx",
+    "slug": "unam",
     "name": "UNAM",
     "domains": [
       "unam.mx"
     ]
   },
   {
-    "slug": "harvard.edu",
+    "slug": "harvard",
     "name": "Harvard",
     "domains": [
       "harvard.edu",
@@ -22,14 +22,14 @@
     ]
   },
   {
-    "slug": "itam.mx",
+    "slug": "itam",
     "name": "ITAM",
     "domains": [
       "itam.mx"
     ]
   },
   {
-    "slug": "yale.edu",
+    "slug": "yale",
     "name": "Yale",
     "domains": [
       "yale.edu"
