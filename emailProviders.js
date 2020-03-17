@@ -1,4 +1,6 @@
 export default [
-  "gmail.com"
+  "gmail.com",
+  "hotmail.com",
+  "yahoo.com"
 ]
 
