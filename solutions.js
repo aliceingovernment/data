@@ -6,7 +6,7 @@ export default [
   },
   {
     slug: "education-research",
-    name: "Increasing sustainability-related education and research",
+    name: "Sustainability-related education and research",
     description: "University courses, workshops, conferences, symposia, incentives for papers, etc..."
   },
   {
