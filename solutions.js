@@ -21,7 +21,7 @@ export default [
   },
   {
     slug: "collaboration",
-    name: "Collaboration with other universities",
+    name: "Collaboration between universities",
     description: "Theres plenty of universities with vibrant sustainability and climate innitiatives, let's find concrete ways to collaborate and have more impact."
   },
   {
