@@ -2,7 +2,7 @@ export default [
   {
     slug: "carbon-neutral-campus",
     name: "Carbon neutral campus by 2030 or sooner",
-    description: "Carbon neutrality is achieved either through transitioning to renewable energy or buying offsets or both."
+    description: "Carbon neutrality can be achieved through transitioning to renewable energy, buying offsets, or both."
   },
   {
     slug: "education-research",
