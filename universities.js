@@ -28,6 +28,13 @@ export default [
       "stanford.edu"
     ]
   },
+   {
+    slug: "trinitycollegedublin",
+    name: "Trinity College Dublin",
+    domains: [
+      "tcd.ie"
+    ]
+  },
   {
     slug: "itam",
     name: "ITAM",
