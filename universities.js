@@ -22,6 +22,13 @@ export default [
     ]
   },
   {
+    slug: "stanford",
+    name: "Stanford",
+    domains: [
+      "stanford.edu"
+    ]
+  },
+  {
     slug: "itam",
     name: "ITAM",
     domains: [
