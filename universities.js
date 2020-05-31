@@ -78,6 +78,20 @@ export default [
     ]
   },
   {
+    slug: "vassar",
+    name: "Vassar College",
+    domains: [
+      "vassar.edu"
+    ]
+  },
+  {
+    slug: "imperialcollegelondon",
+    name: "Imperial College London",
+    domains: [
+      "imperial.ac.uk"
+    ]
+  },
+  {
     slug: "yale",
     name: "Yale",
     domains: [
