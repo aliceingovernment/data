@@ -92,6 +92,13 @@ export default [
     ]
   },
   {
+    slug: "universityofminnesota",
+    name: "University of Minnesota",
+    domains: [
+      "umn.edu"
+    ]
+  },
+  {
     slug: "yale",
     name: "Yale",
     domains: [
