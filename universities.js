@@ -71,6 +71,13 @@ export default [
     ]
   },
   {
+    slug: "mghihp",
+    name: "MGH Institute of Health Professions",
+    domains: [
+      "mghihp.edu"
+    ]
+  },
+  {
     slug: "yale",
     name: "Yale",
     domains: [
