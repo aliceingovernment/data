@@ -43,6 +43,34 @@ export default [
     ]
   },
   {
+    slug: "rutgers",
+    name: "Rutgers",
+    domains: [
+      "rutgers.edu"
+    ]
+  },
+  {
+    slug: "columbia",
+    name: "Columbia",
+    domains: [
+      "columbia.edu"
+    ]
+  },
+  {
+    slug: "princeton",
+    name: "Princeton",
+    domains: [
+      "princeton.edu"
+    ]
+  },
+  {
+    slug: "cca",
+    name: "California College of the Arts",
+    domains: [
+      "cca.edu"
+    ]
+  },
+  {
     slug: "yale",
     name: "Yale",
     domains: [
