@@ -99,6 +99,13 @@ export default [
     ]
   },
   {
+    slug: "newyorkuniversity",
+    name: "New York University",
+    domains: [
+      "nyu.edu"
+    ]
+  },
+  {
     slug: "yale",
     name: "Yale",
     domains: [
