@@ -1,6 +1,6 @@
 export default [
   {
-    slug: "mit",
+    slug: "MIT",
     name: "MIT",
     domains: [
       "mit.edu"
