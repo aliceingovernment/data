@@ -113,6 +113,13 @@ export default [
     ]
   },
   {
+    slug: "berkeley",
+    name: "Berkeley",
+    domains: [
+      "berkeley.edu"
+    ]
+  },
+  {
     slug: "yale",
     name: "Yale",
     domains: [
