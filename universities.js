@@ -106,6 +106,13 @@ export default [
     ]
   },
   {
+    slug: "universityofillinoisaturbana-champaign",
+    name: "University of Illinois at Urbana-Champaign",
+    domains: [
+      "illinois.edu"
+    ]
+  },
+  {
     slug: "yale",
     name: "Yale",
     domains: [
