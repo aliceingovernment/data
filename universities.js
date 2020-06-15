@@ -134,6 +134,13 @@ export default [
     ]
   },
   {
+    slug: "kenyatta-university",
+    name: "Kenyatta University",
+    domains: [
+      "ku.ac.ke"
+    ]
+  },
+  {
     slug: "yale",
     name: "Yale",
     domains: [
