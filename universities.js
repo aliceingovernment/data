@@ -120,6 +120,13 @@ export default [
     ]
   },
   {
+    slug: "mbarara-university-of-science-and-technology",
+    name: "Mbarara University of Science and Technology",
+    domains: [
+      "must.ac.ug"
+    ]
+  },
+  {
     slug: "yale",
     name: "Yale",
     domains: [
