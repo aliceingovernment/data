@@ -141,6 +141,13 @@ export default [
     ]
   },
   {
+    slug: "université-cheikh-anta-diop-de-dakar-sénégal",
+    name: "Université Cheikh Anta Diop de Dakar - Sénégal",
+    domains: [
+      "ucad.edu.sn"
+    ]
+  },
+  {
     slug: "yale",
     name: "Yale",
     domains: [
