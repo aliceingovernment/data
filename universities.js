@@ -127,6 +127,13 @@ export default [
     ]
   },
   {
+    slug: "university-of-nairobi",
+    name: "University of Nairobi",
+    domains: [
+      "uonbi.ac.ke"
+    ]
+  },
+  {
     slug: "yale",
     name: "Yale",
     domains: [
