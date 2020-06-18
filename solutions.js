@@ -10,14 +10,14 @@ export default [
     description: "Reach carbon neutrality by 2030 or sooner, zero-waste programs, subsidized plant-based food, energy efficiency, bike programs, etc."
   },
   {
-    slug: "education-research",
-    name: "Sustainability-related education and research",
-    description: "Including university courses, workshops, conferences, symposia, incentives for papers on sustainability, etc."
-  },
-  {
     slug: "divestment",
     name: "Divestment",
     description: "Selling the university's financial assets and investments related to fossil fuel companies and ideally reinvesting in sustainable alternatives with competitive returns."
+  },
+  {
+    slug: "education-research",
+    name: "Sustainability-related education and research",
+    description: "Including university courses, workshops, conferences, symposia, incentives for papers on sustainability, etc."
   },
   {
     slug: "community-engagement",
