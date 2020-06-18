@@ -4,6 +4,10 @@ export default [
     name: "MIT",
     domains: [
       "mit.edu"
+    ],
+    links: [
+      "https://www.mitclimateactionteam.org",
+      "https://www.mit-divest.com"
     ]
   },
   {
