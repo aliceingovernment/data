@@ -1,8 +1,13 @@
 export default [
   {
+    slug: "intersectional-environmentalism",
+    name: "Intersectional Environmentalism",
+    description: "University climate action needs to engage movements that advocate for black, lgbtq+, indigenous and latinx communities (among many others)."
+  },
+  {
     slug: "carbon-neutral-campus",
     name: "Carbon neutral campus by 2030 or earlier",
-    description: "Carbon neutrality can be achieved through transitioning to renewable energy, buying offsets, or both."
+    description: "Reach carbon neutrality by 2030 or sooner, zero-waste programs, subsidized plant-based food, energy efficiency, bike programs, etc."
   },
   {
     slug: "education-research",
@@ -18,15 +23,5 @@ export default [
     slug: "community-engagement",
     name: "Community engagement and policy advocacy",
     description: "Including outreach, collaboration with NGOs and socially-minded enterprises, communication with government bodies, collaboration with the community, etc."
-  },
-  {
-    slug: "collaboration",
-    name: "Collaboration between universities",
-    description: "There are lots of universities with vibrant sustainability and climate initiatives; let's find concrete ways to collaborate and have more impact."
-  },
-  {
-    slug: "green-campus",
-    name: "Green campus",
-    description: "Energy efficiency, zero-waste programs, subsidized plant-based foods, shifting from single-use to reusable packaging, composting, green areas, bike programs, etc."
   },
 ]
