@@ -132,6 +132,9 @@ export default [
     name: "Berkeley",
     domains: [
       "berkeley.edu"
+    ],
+    links: [
+      "https://sustainability.berkeley.edu/"
     ]
   },
   {
