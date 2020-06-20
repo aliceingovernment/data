@@ -34,6 +34,10 @@ export default [
     name: "Stanford",
     domains: [
       "stanford.edu"
+    ],
+    links: [
+      "https://www.fossilfreestanford.org",
+      "https://twitter.com/DivestStanford"
     ]
   },
    {
@@ -69,6 +73,9 @@ export default [
     name: "Princeton",
     domains: [
       "princeton.edu"
+    ],
+    links: [
+      "divestprinceton.com"
     ]
   },
   {
