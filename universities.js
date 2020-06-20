@@ -23,6 +23,10 @@ export default [
     domains: [
       "harvard.edu",
       "hbs.edu"
+    ],
+    links: [
+      "https://www.harvardforward.org",
+      "http://www.divestharvard.com"
     ]
   },
   {
@@ -156,6 +160,12 @@ export default [
     name: "Yale",
     domains: [
       "yale.edu"
+    ],
+    links: [
+      "https://www.yaleforward.org",
+      "https://openlab.yale.edu",
+      "https://yaleendowmentjustice.org",
+      "https://twitter.com/fossilfreeyale"
     ]
   }
 ]
