@@ -6,7 +6,7 @@ export default [
   },
   {
     slug: "carbon-neutral-campus",
-    name: "Carbon neutral campus by 2030 or earlier",
+    name: "Carbon neutral campus by 2030 or sooner",
     description: "Reach carbon neutrality by 2030 or sooner, zero-waste programs, subsidized plant-based food, energy efficiency, bike programs, etc."
   },
   {
