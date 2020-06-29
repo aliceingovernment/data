@@ -166,6 +166,27 @@ export default [
     ]
   },
   {
+    slug: "machakos-university",
+    name: "Machakos University",
+    domains: [
+      "mksu.ac.ke"
+    ]
+  },
+  {
+    slug: "makerere-university",
+    name: "Makerere University",
+    domains: [
+      "mak.ac.ug"
+    ]
+  },
+  {
+    slug: "kyambogo-university",
+    name: "Kyambogo University",
+    domains: [
+      "kyu.ac.ug"
+    ]
+  },
+  {
     slug: "yale",
     name: "Yale",
     domains: [
