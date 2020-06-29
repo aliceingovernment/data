@@ -187,6 +187,13 @@ export default [
     ]
   },
   {
+    slug: "kaust",
+    name: "KAUST",
+    domains: [
+      "kaust.edu.sa"
+    ]
+  },
+  {
     slug: "yale",
     name: "Yale",
     domains: [
