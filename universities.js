@@ -274,8 +274,14 @@ export default [
     slug: "ntu-singapore",
     name: "NTU Singapore",
     domains: [
-      "ntu.edu.sg
-"
+      "ntu.edu.sg"
+    ]
+  },
+    {
+    slug: "boston-college",
+    name: "Boston College",
+    domains: [
+      "bc.edu"
     ]
   },
   {
