@@ -194,6 +194,83 @@ export default [
     ]
   },
   {
+    slug: "tec-de-monterrey",
+    name: "Tec de Monterrey",
+    domains: [
+      "itesm.mx"
+    ]
+  },
+  {
+    slug: "mcgill-university",
+    name: "McGill University",
+    domains: [
+      "mcgill.ca"
+    ]
+  },
+  {
+    slug: "concordia-university",
+    name: "Concordia University",
+    domains: [
+      "concordia.ca"
+    ]
+  },
+  {
+    slug: "universitat-de-barcelona",
+    name: "Universitat de Barcelona",
+    domains: [
+      "ub.edu"
+    ]
+  },
+  {
+    slug: "universidad-de-sao-paulo",
+    name: "Universidad de Sao Paulo",
+    domains: [
+      "usp.br"
+    ]
+  },
+  {
+    slug: "ku-leuven",
+    name: "KU Leuven",
+    domains: [
+      "kuleuven.be"
+    ]
+  },
+  {
+    slug: "wageningen-university-&-research",
+    name: "Wageningen University & Research",
+    domains: [
+      "wur.nl"
+    ]
+  },
+  {
+    slug: "hec-paris",
+    name: "HEC Paris",
+    domains: [
+      "hec.edu"
+    ]
+  },
+  {
+    slug: "universidad-earth",
+    name: "Universidad EARTH",
+    domains: [
+      "earth.ac.ur"
+    ]
+  },
+  {
+    slug: "cornell",
+    name: "Cornell",
+    domains: [
+      "cornell.edu"
+    ]
+  },
+  {
+    slug: "georgetown",
+    name: "Georgetown",
+    domains: [
+      "georgetown.edu"
+    ]
+  },
+  {
     slug: "yale",
     name: "Yale",
     domains: [
