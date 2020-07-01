@@ -284,6 +284,13 @@ export default [
       "bc.edu"
     ]
   },
+    {
+    slug: "monash-university",
+    name: "Monash University",
+    domains: [
+      "monash.edu"
+    ]
+  },
   {
     slug: "yale",
     name: "Yale",
