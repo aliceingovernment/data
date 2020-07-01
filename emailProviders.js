@@ -15,5 +15,7 @@ export default [
   "protonmail.com",
   "thunderbird.net",
   "yandex.ru",
+  "gmx.com",
+  "gmx.us"
 ]
 
