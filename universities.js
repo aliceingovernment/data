@@ -292,6 +292,13 @@ export default [
     ]
   },
   {
+    slug: "hs-offenburg",
+    name: "Hochshule Offenburg",
+    domains: [
+      "hs-offenburg.de"
+    ]
+  },
+  {
     slug: "yale",
     name: "Yale",
     domains: [
