@@ -16,6 +16,10 @@ export default [
   "thunderbird.net",
   "yandex.ru",
   "gmx.com",
-  "gmx.us"
+  "gmx.us",
+  "gmx.net",
+  "gmx.de",
+  "gmx.at",
+  "gmx.ch"
 ]
 
