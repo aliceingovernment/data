@@ -15,6 +15,9 @@ export default [
     name: "UNAM",
     domains: [
       "unam.mx"
+    ],
+    links: [
+      "https://sustentabilidad.unam.mx/sustentabilidad-unam.php"
     ]
   },
   {
