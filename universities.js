@@ -7,7 +7,8 @@ export default [
     ],
     links: [
       "https://www.mitclimateactionteam.org",
-      "https://www.mit-divest.com"
+      "https://www.mit-divest.com",
+      "https://sustainability.mit.edu/plan-climate-action-page"
     ]
   },
   {
