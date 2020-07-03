@@ -17,7 +17,8 @@ export default [
       "unam.mx"
     ],
     links: [
-      "https://sustentabilidad.unam.mx/sustentabilidad-unam.php"
+      "https://sustentabilidad.unam.mx/sustentabilidad-unam.php",
+      "http://www.pincc.unam.mx/UC3_UNAM/Documentos/PAC-EUCC_UNAM_2018_FASE_1.pdf"
     ]
   },
   {
