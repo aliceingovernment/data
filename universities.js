@@ -304,6 +304,17 @@ export default [
     ]
   },
   {
+    slug: "boston-university",
+    name: "Boston University",
+    domains: [
+      "bu.edu"
+    ],
+    links: [
+      "https://www.instagram.com/divest_bu/",
+      "https://divestbu.com/"
+    ]
+  },
+  {
     slug: "yale",
     name: "Yale",
     domains: [
