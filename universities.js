@@ -304,6 +304,13 @@ export default [
     ]
   },
   {
+    slug: "the-univeristy-of-sydney",
+    name: "The University of Sydney",
+    domains: [
+      "sydney.edu.au"
+    ]
+  },
+  {
     slug: "boston-university",
     name: "Boston University",
     domains: [
