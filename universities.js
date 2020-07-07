@@ -245,6 +245,9 @@ export default [
     name: "Wageningen University & Research",
     domains: [
       "wur.nl"
+    ],
+    links: [
+      "https://www.wur.nl/en/Research-Results/Sustainable-Development-Goals.htm"
     ]
   },
   {
