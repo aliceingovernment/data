@@ -314,6 +314,13 @@ export default [
     ]
   },
   {
+    slug: "marquette-university",
+    name: "Marquette University",
+    domains: [
+      "marquette.edu"
+    ]
+  },
+  {
     slug: "boston-university",
     name: "Boston University",
     domains: [
