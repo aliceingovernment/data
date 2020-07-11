@@ -321,6 +321,13 @@ export default [
     ]
   },
   {
+    slug: "johns-hopkins-university",
+    name: "Johns Hopkins University",
+    domains: [
+      "jhu.edu"
+    ]
+  },
+  {
     slug: "boston-university",
     name: "Boston University",
     domains: [
