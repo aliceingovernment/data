@@ -327,6 +327,13 @@ export default [
       "jhu.edu"
     ]
   },
+   {
+    slug: "kampala-international-university",
+    name: "Kampala International University",
+    domains: [
+      "kiu.ac.ug"
+    ]
+  },
   {
     slug: "boston-university",
     name: "Boston University",
