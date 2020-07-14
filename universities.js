@@ -324,7 +324,8 @@ export default [
     slug: "johns-hopkins-university",
     name: "Johns Hopkins University",
     domains: [
-      "jhu.edu"
+      "jhu.edu",
+      "jh.edu"
     ]
   },
    {
