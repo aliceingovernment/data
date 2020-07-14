@@ -334,6 +334,27 @@ export default [
       "kiu.ac.ug"
     ]
   },
+   {
+    slug: "el-colegio-de-mexico",
+    name: "El Colegio de Mexico",
+    domains: [
+      "colmex.mx"
+    ]
+  },
+   {
+    slug: "american-university",
+    name: "American University",
+    domains: [
+      "american.edu"
+    ]
+  },
+   {
+    slug: "universidad-de-santiago-de-chile",
+    name: "Universidad de Santiago de Chile",
+    domains: [
+      "usach.cl"
+    ]
+  },
   {
     slug: "boston-university",
     name: "Boston University",
