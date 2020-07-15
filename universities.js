@@ -357,6 +357,28 @@ export default [
     ]
   },
   {
+    slug: "carnegie-mellon-university",
+    name: "Carnegie Mellon University",
+    domains: [
+      "cmu.edu"
+    ]
+  },
+  {
+    slug: "dartmouth",
+    name: "Dartmouth",
+    domains: [
+      "dartmouth.edu"
+    ]
+  },
+  {
+    slug: "university-of-washington",
+    name: "University of Washington",
+    domains: [
+      "uw.edu",
+      "washington.edu"
+    ]
+  },
+  {
     slug: "boston-university",
     name: "Boston University",
     domains: [
