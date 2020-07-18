@@ -379,6 +379,13 @@ export default [
     ]
   },
   {
+    slug: "tufts-university",
+    name: "Tufts University",
+    domains: [
+      "tufts.edu"
+    ]
+  },
+  {
     slug: "boston-university",
     name: "Boston University",
     domains: [
