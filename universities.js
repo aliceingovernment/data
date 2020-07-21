@@ -330,7 +330,8 @@ export default [
     links: [
       "https://www.instagram.com/refuelourfuture/",
       "https://www.facebook.com/RefuelOurFuture/",
-      "https://www.instagram.com/sunrisehopkins/"
+      "https://www.instagram.com/sunrisehopkins/",
+      "https://sustainability.jhu.edu/"
     ]
   },
    {
