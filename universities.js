@@ -326,6 +326,11 @@ export default [
     domains: [
       "jhu.edu",
       "jh.edu"
+    ],
+    links: [
+      "https://www.instagram.com/refuelourfuture/",
+      "https://www.facebook.com/RefuelOurFuture/",
+      "https://www.instagram.com/sunrisehopkins/"
     ]
   },
    {
