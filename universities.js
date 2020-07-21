@@ -386,6 +386,13 @@ export default [
     ]
   },
   {
+    slug: "duke",
+    name: "Duke",
+    domains: [
+      "duke.edu"
+    ]
+  },
+  {
     slug: "boston-university",
     name: "Boston University",
     domains: [
