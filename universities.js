@@ -290,6 +290,9 @@ export default [
     name: "Boston College",
     domains: [
       "bc.edu"
+    ],
+    links: [
+      "https://www.instagram.com/bcclimatejustice/"
     ]
   },
     {
