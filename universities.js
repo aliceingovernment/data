@@ -393,6 +393,13 @@ export default [
     ]
   },
   {
+    slug: "uc-san-diego",
+    name: "UC San Diego",
+    domains: [
+      "ucsd.edu"
+    ]
+  },
+  {
     slug: "boston-university",
     name: "Boston University",
     domains: [
