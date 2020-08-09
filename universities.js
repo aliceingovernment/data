@@ -409,6 +409,13 @@ export default [
     ]
   },
   {
+    slug: "university-of-cambridge",
+    name: "University of Cambridge",
+    domains: [
+      "cam.ac.uk"
+    ]
+  },
+  {
     slug: "boston-university",
     name: "Boston University",
     domains: [
