@@ -122,15 +122,15 @@ export default {
     faq5a5: "Reach out to us if you have ideas for improving or contributing to this project.",
     faq6q: "6. How can I contact you?",
     faq6a: 'Write us at hello@climatereferendum.com or shoot us a message on <a href="https://twitter.com/climate_r"  style="color:blue" target="_blank">Twitter.',
-    solnintenv: "Intersectional Environmentalism",
-    soldintenv: "University climate action needs to engage movements that advocate for black, lgbtq+, indigenous and latinx communities (among many others).",
-    solncarbnet: "Carbon neutral campus by 2030 or sooner",
-    soldcarbnet: "Reach carbon neutrality by 2030 or sooner, zero-waste programs, subsidized plant-based food, energy efficiency, bike programs, etc.",
-    solndiv: "Divestment",
-    solddiv: "Selling the university's financial assets and investments related to fossil fuel companies and ideally reinvesting in sustainable alternatives with competitive returns.",
-    solnedu: "Sustainability-related education and research",
-    soldedu: "Including university courses, workshops, conferences, symposia, incentives for papers on sustainability, etc.",
-    solncomm: "Community engagement and policy advocacy",
-    soldcomm: "Including outreach, collaboration with NGOs and socially-minded enterprises, communication with government bodies, collaboration with the community, etc."
+    solnintenv: "Ambientalismo interseccional",
+    soldintenv: "Colaborar con grupos que abogan por la igualdad de género, raza, clase, orientación sexual, etc...",
+    solncarbnet: "Campus universitario con huella de carbono cero antes de 2030",
+    soldcarbnet: "Impulsar la transición hacia un campus limpio a través de diferentes alternativas como energía renovable, tratamiento de agua y basura, composta, menos carne, etc..",
+    solndiv: "Desinversión",
+    solddiv: "Lograr que tu universidad deje de invertir en bienes o instrumentos financieros relacionados con el cambio climático.",
+    solnedu: "Educación e investigación en temas de sustenabilidad",
+    soldedu: "Incluye clases, cursos, talleres, conferencias, incentivos para investigación, etc..",
+    solncomm: "Trabajo con la comunidad y políticas públicas",
+    soldcomm: "Colaboración con ONGs y empresas sociales, programas con la comunidad, apoyo a políticas públicas de sustentabilidad, etc.."
   }
 }
